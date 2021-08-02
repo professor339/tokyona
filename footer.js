@@ -1,0 +1,18 @@
+document.write( '<head>\n' );
+document.write( '<meta name=\"viewport\" content=\"width=device-width, initial-scale=1\">\n' );
+document.write( '<style>\n' );
+document.write( '.footer {\n' );
+document.write( '   position: fixed;\n' );
+document.write( '   left: 0;\n' );
+document.write( '   bottom: 0;\n' );
+document.write( '   width: 100%;\n' );
+document.write( '   background-color: black;\n' );
+document.write( '   color: white;\n' );
+document.write( '   text-align: center;\n' );
+document.write( '}\n' );
+document.write( '</style>\n' );
+document.write( '</head>\n' );
+document.write( '\n' );
+document.write( '<div class=\"footer\">\n' );
+document.write( '  <p>copyright @2021 pharmatricks.in</p>\n' );
+document.write( '</div></head>' );
